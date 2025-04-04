@@ -1,0 +1,364 @@
+   0.000 2025-04-04 11:55:12; Factorio 2.0.43 (build 82163, win64, steam, space-age)
+   0.000 Operating system: Windows 11 (build 26100) 
+   0.000 Initializing Steam API.
+   0.001 Program arguments: "C:\Program Files (x86)\Steam\steamapps\common\Factorio\bin\x64\Factorio.exe" 
+   0.001 Config path: C:/Users/jakej/AppData/Roaming/Factorio/config/config.ini
+   0.001 Read data path: C:/Program Files (x86)/Steam/steamapps/common/Factorio/data
+   0.001 Write data path: C:/Users/jakej/AppData/Roaming/Factorio [1713689/1906966MB]
+   0.001 Binaries path: C:/Program Files (x86)/Steam/steamapps/common/Factorio/bin
+   0.022 System info: [CPU: AMD Ryzen 7 7800X3D 8-Core Processor, 16 cores, RAM: 10873/64629 MB, page: 13838/68725 MB, virtual: 4354/134217727 MB, extended virtual: 0 MB]
+   0.041 Memory info:
+   0.041  [0]: Unknown F5-6000J3036G32G 32768 MB 4800 MHz 1.1 v 64|64
+   0.041  [1]: Unknown F5-6000J3036G32G 32768 MB 4800 MHz 1.1 v 64|64
+   0.313 Display options: [FullScreen: true] [VSync: true] [UIScale: manual-display-points (150.0%)] [Native DPI: true] [Screen: 255] [Special: lmw] [Lang: en]
+   0.658 Video driver: windows
+   0.658 Available displays: 3
+   0.658  [2]: \\.\DISPLAY3 - NVIDIA GeForce RTX 3080 {0x05, [0,0], 5120x1440, 32bit, 240Hz}
+   0.658  [0]: \\.\DISPLAY1 - NVIDIA GeForce RTX 3080 {0x01, [-774,-1440], 3440x1440, 32bit, 60Hz}
+   0.658  [1]: \\.\DISPLAY2 - NVIDIA GeForce RTX 3080 {0x01, [2666,-1462], 3440x1440, 32bit, 50Hz}
+   0.718 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: -1; d3dcompiler_47.dll
+   0.939 Initialised Direct3D[0]: NVIDIA GeForce RTX 3080; id: 10de-220a; driver: nvldumdx.dll 32.0.15.7283
+   0.939   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.939   [Local Video Memory] Budget: 11325MB, CurrentUsage: 6MB, Reservation: 0/5790MB
+   0.939   [Non-Local Vid.Mem.] Budget: 31546MB, CurrentUsage: 0MB, Reservation: 0/15901MB
+   0.939   Tiled resources: Tier 2
+   0.939   Unified Memory Architecture: No
+   0.939   BGR 565 Supported: Yes
+   0.939   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.939 Graphics settings preset: very-high
+   0.939   Dedicated video memory size 12093 MB
+   1.000 Desktop composition is active.
+   1.000 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality]
+   1.000                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: false] [Rotation quality: normal] [Other: STDCWTl] [B:0,C:0,S:100]
+   1.030 [Audio] Driver:wasapi, Device:Default device, Depth:16, Frequency:44100, Channels:2, Interpolation:linear
+   1.295 Info ModManager.cpp:444: FeatureFlag expansion-shaders = true
+   1.295 Info ModManager.cpp:444: FeatureFlag freezing = true
+   1.295 Info ModManager.cpp:444: FeatureFlag quality = true
+   1.295 Info ModManager.cpp:444: FeatureFlag rail-bridges = true
+   1.295 Info ModManager.cpp:444: FeatureFlag segmented-units = true
+   1.295 Info ModManager.cpp:444: FeatureFlag space-travel = true
+   1.295 Info ModManager.cpp:444: FeatureFlag spoiling = true
+   1.318 Loading mod settings blueprint-sandboxes 2.6.3 (settings.lua)
+   1.319 Loading mod settings DiscoScience 2.0.1 (settings.lua)
+   1.319 Loading mod settings even-distribution 2.0.2 (settings.lua)
+   1.320 Loading mod settings even-pickier-dollies 2.5.4 (settings.lua)
+   1.320 Loading mod settings Quicksave 0.4.0 (settings.lua)
+   1.320 Loading mod settings BottleneckLite 1.3.3 (settings.lua)
+   1.321 Loading mod settings RateCalculator 3.3.6 (settings.lua)
+   1.321 Loading mod settings RecipeBook 4.0.2 (settings.lua)
+   1.321 Loading mod settings FactorySearch 1.12.3 (settings.lua)
+   1.322 Loading mod settings visible-planets 1.4.5 (settings.lua)
+   1.322 Loading mod settings blueprint-sandboxes 2.6.3 (settings-final-fixes.lua)
+   1.330 Loading mod core 0.0.0 (data.lua)
+   1.423 Loading mod base 2.0.43 (data.lua)
+   2.509 Loading mod blueprint-sandboxes 2.6.3 (data.lua)
+   2.515 Loading mod bullet-trails 0.7.1 (data.lua)
+   2.519 Loading mod DiscoScience 2.0.1 (data.lua)
+   2.523 Loading mod elevated-rails 2.0.43 (data.lua)
+   2.731 Loading mod even-distribution 2.0.2 (data.lua)
+   2.736 Loading mod even-pickier-dollies 2.5.4 (data.lua)
+   2.739 Loading mod flib 0.16.2 (data.lua)
+   2.744 Loading mod GhostPlacerXpress 0.2.1 (data.lua)
+   2.749 Loading mod more-minimap-autohide-017 2.0.0 (data.lua)
+   2.780 Loading mod quality 2.0.43 (data.lua)
+   2.933 Loading mod Quicksave 0.4.0 (data.lua)
+   2.938 Loading mod factoryplanner 2.0.19 (data.lua)
+   2.942 Loading mod RateCalculator 3.3.6 (data.lua)
+   2.946 Loading mod RecipeBook 4.0.2 (data.lua)
+   2.950 Loading mod space-age 2.0.43 (data.lua)
+   6.463 Loading mod FactorySearch 1.12.3 (data.lua)
+   6.471 Loading mod visible-planets 1.4.5 (data.lua)
+   6.478 Loading mod base 2.0.43 (data-updates.lua)
+   6.493 Loading mod CleanFloor 2.0.0 (data-updates.lua)
+   6.500 Loading mod blueprint-sandboxes 2.6.3 (data-updates.lua)
+   6.508 Loading mod bullet-trails 0.7.1 (data-updates.lua)
+   6.515 Loading mod quality 2.0.43 (data-updates.lua)
+   6.540 Loading mod space-age 2.0.43 (data-updates.lua)
+   6.553 Loading mod FactorySearch 1.12.3 (data-updates.lua)
+   6.561 Loading mod blueprint-sandboxes 2.6.3 (data-final-fixes.lua)
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[ammo-turret][se-meteor-defence-container] not found; cannot create Illusion
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[ammo-turret][se-meteor-point-defence-container] not found; cannot create Illusion
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-delivery-cannon] not found; cannot create Illusion
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-delivery-cannon-weapon] not found; cannot create Illusion
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-energy-transmitter-injector] not found; cannot create Illusion
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-energy-transmitter-emitter] not found; cannot create Illusion
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-space-elevator] not found; cannot create Illusion
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[boiler][se-energy-transmitter-chamber] not found; cannot create Illusion
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[container][se-rocket-launch-pad] not found; cannot create Illusion
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[container][se-rocket-landing-pad] not found; cannot create Illusion
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[electric-energy-interface][se-energy-beam-defence] not found; cannot create Illusion
+   6.561 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[mining-drill][se-core-miner-drill] not found; cannot create Illusion
+   6.568 Loading mod BottleneckLite 1.3.3 (data-final-fixes.lua)
+   6.575 Loading mod RecipeBook 4.0.2 (data-final-fixes.lua)
+   6.582 Loading mod visible-planets 1.4.5 (data-final-fixes.lua)
+   6.582 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for nauvis
+   6.582 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for vulcanus
+   6.582 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for gleba
+   6.582 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for fulgora
+   6.582 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for aquilo
+   6.582 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:107: Skipping visible-planets for space-location-unknown; Blacklisted.
+   6.582 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:29: Skipping visible-planets for solar-system-edge; Starmap icon missing.
+   6.582 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for shattered-planet
+   6.690 Checksum for core: 2871805093
+   6.690 Checksum of base: 961148251
+   6.690 Checksum of CleanFloor: 2254551355
+   6.690 Checksum of blueprint-sandboxes: 1468733161
+   6.690 Checksum of bullet-trails: 3844283971
+   6.690 Checksum of DiscoScience: 2800209080
+   6.690 Checksum of elevated-rails: 1723922474
+   6.690 Checksum of even-distribution: 281457414
+   6.690 Checksum of even-pickier-dollies: 2877882474
+   6.690 Checksum of flib: 728527376
+   6.690 Checksum of GhostPlacerXpress: 2922466754
+   6.690 Checksum of more-minimap-autohide-017: 149315223
+   6.690 Checksum of quality: 3659920990
+   6.690 Checksum of Quicksave: 132597282
+   6.690 Checksum of BottleneckLite: 4111793293
+   6.690 Checksum of factoryplanner: 1350146402
+   6.690 Checksum of RateCalculator: 1295360039
+   6.690 Checksum of RecipeBook: 1411504908
+   6.690 Checksum of space-age: 2640575863
+   6.690 Checksum of FactorySearch: 4045460007
+   6.690 Checksum of visible-planets: 3598016665
+   7.019 Prototype list checksum: 2478141606
+   7.077 Loading sounds...
+  15.929 Info PlayerData.cpp:66: Local player-data.json unavailable
+  15.929 Info PlayerData.cpp:69: Cloud player-data.json available, timestamp 1743718381
+  15.951 Post-data load graphics options: [Light occlusion: YES]
+  16.221 Initial atlas bitmap size is 16384
+  16.231 Created an atlas bitmap (size 16384x16380) [none]
+  16.244 Created an atlas bitmap (size 16384x16384) [none]
+  16.262 Created an atlas bitmap (size 16384x16380) [none]
+  16.264 Created an atlas bitmap (size 16384x14916) [none]
+  16.268 Created an atlas bitmap (size 16384x16384) [low-object]
+  16.269 Created an atlas bitmap (size 4096x1664) [low-object]
+  16.269 Created an atlas bitmap (size 16384x14176) [corpse-decay]
+  16.270 Created an atlas bitmap (size 16384x8392) [decal]
+  16.270 Created an atlas bitmap (size 16384x5596) [none]
+  16.270 Created an atlas bitmap (size 1676x79) [not-compressed]
+  16.271 Created an atlas bitmap (size 16384x4240) [mipmap, linear-minification, linear-magnification, linear-mip-level]
+  16.271 Created an atlas bitmap (size 4096x3040) [smoke, mipmap, linear-minification, linear-magnification]
+  16.276 Created an atlas bitmap (size 16384x16352) [terrain, mipmap, linear-minification, linear-mip-level]
+  16.277 Created an atlas bitmap (size 16384x4944) [terrain, mipmap, linear-minification, linear-mip-level]
+  16.277 Created an atlas bitmap (size 8192x4128) [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+  16.278 Created an atlas bitmap (size 8192x2608) [mipmap]
+  16.278 Created an atlas bitmap (size 3504x768) [mipmap]
+  16.278 Created an atlas bitmap (size 4096x3152) [mipmap]
+  16.278 Created an atlas bitmap (size 4096x3152) [mipmap]
+  16.279 Created an atlas bitmap (size 4096x3152) [mipmap]
+  16.279 Created an atlas bitmap (size 8192x4160) [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+  16.280 Created an atlas bitmap (size 16384x6120) [alpha-mask]
+  16.299 Created an atlas bitmap (size 16384x16372) [shadow, linear-magnification, alpha-mask]
+  16.303 Created an atlas bitmap (size 16384x16376) [shadow, linear-magnification, alpha-mask]
+  16.303 Created an atlas bitmap (size 16384x3756) [shadow, linear-magnification, alpha-mask]
+  16.304 Created an atlas bitmap (size 8192x4000) [shadow, mipmap, linear-magnification, alpha-mask]
+  16.304 Created an atlas bitmap (size 4096x336) [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+  16.304 Loading 3D bitmaps.
+  16.322 Texture processor created (4096). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+  16.354 Parallel sprite loader initialized (threads: 15, bitmaps: 8401)
+  27.288 Sprites loaded
+  27.299 Generated mipmaps (4) for atlas [4] of size 16384x16384   
+  27.310 Generated mipmaps (4) for atlas [5] of size 4096x1664   
+  27.320 Generated mipmaps (3) for atlas [10] of size 16384x4240   
+  27.332 Generated mipmaps (3) for atlas [11] of size 4096x3040   
+  27.343 Generated mipmaps (3) for atlas [12] of size 16384x16352   
+  27.354 Generated mipmaps (3) for atlas [13] of size 16384x4944   
+  27.365 Generated mipmaps (3) for atlas [14] of size 8192x4128   
+  27.405 Generated mipmaps (3) for atlas [15] of size 8192x2608   
+  27.416 Generated mipmaps (3) for atlas [16] of size 3504x768   
+  27.427 Generated mipmaps (3) for atlas [17] of size 4096x3152   
+  27.452 Generated mipmaps (3) for atlas [18] of size 4096x3152   
+  27.463 Generated mipmaps (3) for atlas [19] of size 4096x3152   
+  27.474 Generated mipmaps (5) for atlas [20] of size 8192x4160   
+  27.485 Generated mipmaps (3) for atlas [25] of size 8192x4000   
+  27.509 Custom mipmaps uploaded (3458)
+  27.533 Video memory usage: 3587.35 MB (Atlases: 3457.05 MB, Textures: 130.30 MB)
+  27.537 Custom inputs active: 42
+  27.787 Factorio initialised
+  27.788 Discord overlay detected (DiscordHook64.dll)
+  27.791 Steam Storage Quota: 23401/23841
+  39.503 Loading map C:\Users\jakej\AppData\Roaming\Factorio\saves\_autosave2.zip: 9696963 bytes.
+  39.542 Loading level.dat: 34905300 bytes.
+  39.545 Info Scenario.cpp:153: Map version 2.0.43-3
+  39.843 Loading blueprint storage: Local timestamp 1743696999, Cloud timestamp 1743696998
+  39.873 Loading script.dat: 2088799 bytes.
+  39.876 Checksum for script __level__/control.lua: 2734153661
+  39.881 Checksum for script __blueprint-sandboxes__/control.lua: 2860136389
+  39.882 Checksum for script __DiscoScience__/control.lua: 2155680188
+  39.885 Script @__even-distribution__/framework.lua:22: 0 [ED] Initializing framework... DEBUG = false
+  39.885 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom scripts...
+  39.885 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: metatables
+  39.885 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: util
+  39.885 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: helpers
+  39.885 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: setup
+  39.886 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: remote
+  39.886 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: visuals
+  39.886 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: gui-tools
+  39.886 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: drag
+  39.887 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: cleanup
+  39.887 Script @__even-distribution__/framework.lua:22: 0 [ED] GUI-Script: settings-gui
+  39.888 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering default event handlers...
+  39.888 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom inputs...
+  39.888 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+  39.888 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+  39.888 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+  39.889 Script @__even-distribution__/framework.lua:22: 0 [ED] Successfully initialized
+  39.889 Checksum for script __even-distribution__/control.lua: 140605339
+  39.898 Checksum for script __even-pickier-dollies__/control.lua: 1801044359
+  39.898 Checksum for script __GhostPlacerXpress__/control.lua: 2164491101
+  39.899 Checksum for script __more-minimap-autohide-017__/control.lua: 1781218547
+  39.899 Checksum for script __Quicksave__/control.lua: 2268494566
+  39.924 Checksum for script __factoryplanner__/control.lua: 915592458
+  39.928 Checksum for script __RateCalculator__/control.lua: 927743582
+  39.974 Checksum for script __RecipeBook__/control.lua: 4043396858
+  39.977 Checksum for script __FactorySearch__/control.lua: 851827897
+  39.978 Checksum for script __visible-planets__/control.lua: 2894108746
+ 349.796 Info AppManager.cpp:323: Saving to _autosave3 (blocking).
+ 349.949 Info BlueprintShelf.cpp:723: Saving blueprint storage.
+ 349.972 Saved blueprint storage to cloud
+ 350.007 Info AppManagerStates.cpp:2097: Saving finished
+ 649.997 Info AppManager.cpp:323: Saving to _autosave1 (blocking).
+ 650.150 Info BlueprintShelf.cpp:723: Saving blueprint storage.
+ 650.173 Saved blueprint storage to cloud
+ 650.210 Info AppManagerStates.cpp:2097: Saving finished
+ 950.212 Info AppManager.cpp:323: Saving to _autosave2 (blocking).
+ 950.402 Info AppManagerStates.cpp:2097: Saving finished
+1264.584 Info AppManagerStates.cpp:2097: Saving finished
+1271.331 Info AppManager.cpp:352: Deleting active scenario.
+1272.441 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/api/mods?page_size=max&full=True&version=2.0.43&lang=en&is_space_age=true
+1274.247 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/api/bookmarks?version=2.0.43&lang=en&is_space_age=true&username=jestrjk&token=<private>
+1274.247 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/api/search
+1274.390 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/76256cf92d2d2c37d371298c700fa8b455b5c76b.thumb.png
+1274.390 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/2bf07171df5fb4b0e8f4cd6847cfd015b8a411a8.thumb.png
+1274.390 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/601bb95a77247cf9b06bacbff6a3e77a75fb0d18.thumb.png
+1274.390 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/851a35a34a673201e4327b4d703b3e0cbac0fae1.thumb.png
+1274.390 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/8b8ff680dcb92647d75e25c164ccf7071c5d8d81.thumb.png
+1274.465 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/18ba4dc26c7cd3936a9c9d0151e8ad39e3eef3db.thumb.png
+1274.486 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/f083123b82c311e0c52c97024add949fe5a9b929.thumb.png
+1274.488 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/8cc9835188dd6feef75702c864e061df3fc11c26.thumb.png
+1274.497 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/d047bd45ba6e89adfc11a8201edc67249e5c5329.thumb.png
+1274.507 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/a75f95d1a83dbf42bf0c0c79f01338cfc31d016e.thumb.png
+1274.516 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/c11d3aba2b8fe7d92528f1e030e5243f65602d67.thumb.png
+1274.516 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/8884dd18568adbd872d24025b34d5268108711e9.thumb.png
+1274.526 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/3d48ff5b128cdae61bc886040c6fc17e79831246.thumb.png
+1274.526 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/e94e5bc60e52db7436005e80359e8d5e986dd199.thumb.png
+1274.534 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/1ff89028a4cf7485b4c0af25816f1172e4ae0c67.thumb.png
+1274.542 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/dfa0ad15158bc16dabc05259c2144d49726474fa.thumb.png
+1274.546 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/5a97719d19275380566d09feb2dd7ca24bafd222.thumb.png
+1274.557 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/b8fd829a6f64b1033aa41035bc9e4c8ab6a94e4d.thumb.png
+1274.557 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/a5cf623b55a5f95d4f90b8b2fc01359df2a34765.thumb.png
+1278.319 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/api/search
+1278.492 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/de9de04c2b9936afbba2cc1ae7f6c49d2e9ec58e.thumb.png
+1278.492 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/ac774dc3e52f98a2d6da58db18ebce02256ef8a4.thumb.png
+1278.492 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/ce0979e5e09d22600a22f00029a1affcea0d94dc.thumb.png
+1278.492 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/97a8a442fbe293dc35dca32652312721c7e69290.thumb.png
+1278.492 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/f122cd25ae0d104ec1cd2da072c24a292ad9bbfc.thumb.png
+1278.507 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/cfb3caa5cf90be176fbb26e6d01a3b605c75e34a.thumb.png
+1278.507 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/f4e25929e7bd3d1b64f36fdf75dfbd0502ca59a6.thumb.png
+1278.510 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/027de5365e09eb4c0072956a2dcf325786a69b19.thumb.png
+1278.510 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/5fb348d9dcd9335668e69c38e1fb9c682a0622b9.thumb.png
+1278.529 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/e6d38c8bbdae2b184ee14732c8769dc41e45c279.thumb.png
+1278.529 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/1b418f01f2b4c1be3888c0ca649899a724363697.thumb.png
+1278.529 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/d232083420c2ef967c62e663de356ed40ba3f8ff.thumb.png
+1278.529 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/0521365d424a13fef425bf1853aeef0cfd289119.thumb.png
+1278.544 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/cf902370bae5c330f0c6017f045a462a9c4fc010.thumb.png
+1278.558 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/93adf071881f814a20bcd3678e3b1ebf980c6792.thumb.png
+1278.558 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/033292d0eb49b961552451b58f8dbbac7df7e066.thumb.png
+1278.558 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/1acc0bc0a5bfe4f3189a990a0c1a241776925ce7.thumb.png
+1279.447 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/api/search
+1280.774 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/api/mods/blueprint-shotgun/full?version=2.0.43&lang=en&is_space_age=true
+1294.878 Loading map C:\Users\jakej\AppData\Roaming\Factorio\saves\Rail World Lite 25-03-26.zip: 9528306 bytes.
+1294.916 Loading level.dat: 35004412 bytes.
+1294.918 Info Scenario.cpp:153: Map version 2.0.43-3
+1295.219 Loading blueprint storage: Local timestamp 1743782762, Cloud timestamp 1743782762
+1295.245 Loading script.dat: 2088747 bytes.
+1295.248 Checksum for script __level__/control.lua: 2734153661
+1295.253 Checksum for script __blueprint-sandboxes__/control.lua: 2860136389
+1295.254 Checksum for script __DiscoScience__/control.lua: 2155680188
+1295.255 Script @__even-distribution__/framework.lua:22: 0 [ED] Initializing framework... DEBUG = false
+1295.255 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom scripts...
+1295.255 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: metatables
+1295.255 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: util
+1295.255 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: helpers
+1295.256 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: setup
+1295.256 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: remote
+1295.256 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: visuals
+1295.257 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: gui-tools
+1295.257 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: drag
+1295.257 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: cleanup
+1295.257 Script @__even-distribution__/framework.lua:22: 0 [ED] GUI-Script: settings-gui
+1295.258 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering default event handlers...
+1295.258 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom inputs...
+1295.258 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+1295.258 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+1295.258 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+1295.259 Script @__even-distribution__/framework.lua:22: 0 [ED] Successfully initialized
+1295.259 Checksum for script __even-distribution__/control.lua: 140605339
+1295.262 Checksum for script __even-pickier-dollies__/control.lua: 1801044359
+1295.262 Checksum for script __GhostPlacerXpress__/control.lua: 2164491101
+1295.263 Checksum for script __more-minimap-autohide-017__/control.lua: 1781218547
+1295.263 Checksum for script __Quicksave__/control.lua: 2268494566
+1295.283 Checksum for script __factoryplanner__/control.lua: 915592458
+1295.288 Checksum for script __RateCalculator__/control.lua: 927743582
+1295.330 Checksum for script __RecipeBook__/control.lua: 4043396858
+1295.334 Checksum for script __FactorySearch__/control.lua: 851827897
+1295.335 Checksum for script __visible-planets__/control.lua: 2894108746
+1302.023 Info AppManager.cpp:352: Deleting active scenario.
+1303.819 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/api/mods?page_size=max&full=True&version=2.0.43&lang=en&is_space_age=true
+1309.065 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/api/search
+1309.108 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/76256cf92d2d2c37d371298c700fa8b455b5c76b.thumb.png
+1309.108 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/2bf07171df5fb4b0e8f4cd6847cfd015b8a411a8.thumb.png
+1309.108 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/601bb95a77247cf9b06bacbff6a3e77a75fb0d18.thumb.png
+1309.108 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/851a35a34a673201e4327b4d703b3e0cbac0fae1.thumb.png
+1309.108 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/8b8ff680dcb92647d75e25c164ccf7071c5d8d81.thumb.png
+1309.121 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/18ba4dc26c7cd3936a9c9d0151e8ad39e3eef3db.thumb.png
+1309.127 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/f083123b82c311e0c52c97024add949fe5a9b929.thumb.png
+1309.131 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/8cc9835188dd6feef75702c864e061df3fc11c26.thumb.png
+1309.140 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/d047bd45ba6e89adfc11a8201edc67249e5c5329.thumb.png
+1309.145 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/a75f95d1a83dbf42bf0c0c79f01338cfc31d016e.thumb.png
+1309.153 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/c11d3aba2b8fe7d92528f1e030e5243f65602d67.thumb.png
+1309.159 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/8884dd18568adbd872d24025b34d5268108711e9.thumb.png
+1309.163 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/3d48ff5b128cdae61bc886040c6fc17e79831246.thumb.png
+1309.172 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/e94e5bc60e52db7436005e80359e8d5e986dd199.thumb.png
+1309.173 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/1ff89028a4cf7485b4c0af25816f1172e4ae0c67.thumb.png
+1309.175 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/dfa0ad15158bc16dabc05259c2144d49726474fa.thumb.png
+1309.176 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/5a97719d19275380566d09feb2dd7ca24bafd222.thumb.png
+1309.181 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/b8fd829a6f64b1033aa41035bc9e4c8ab6a94e4d.thumb.png
+1309.190 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/a5cf623b55a5f95d4f90b8b2fc01359df2a34765.thumb.png
+1311.817 Info ModPortal.cpp:613: Downloading /download/blueprint-sandboxes/67e970d56e9cf4edb858f97e?username=jestrjk&token=<private> to C:\Users\jakej\AppData\Roaming\Factorio\temp\blueprint-sandboxes_2.6.4.zip
+1311.817 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/download/blueprint-sandboxes/67e970d56e9cf4edb858f97e?username=jestrjk&token=<private>
+1312.154 Info ModPortal.cpp:613: Downloading /download/bobinserters/67ea6c8a438a5af4c2485610?username=jestrjk&token=<private> to C:\Users\jakej\AppData\Roaming\Factorio\temp\bobinserters_2.0.0.zip
+1312.154 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/download/bobinserters/67ea6c8a438a5af4c2485610?username=jestrjk&token=<private>
+1312.238 Info ModPortal.cpp:613: Downloading /download/kry_stdlib/67ea073f3e745dec995e073e?username=jestrjk&token=<private> to C:\Users\jakej\AppData\Roaming\Factorio\temp\kry_stdlib_2.0.2.zip
+1312.238 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/download/kry_stdlib/67ea073f3e745dec995e073e?username=jestrjk&token=<private>
+1312.319 Info ModPortal.cpp:613: Downloading /download/FactorySearch/67edbd9e99a88d8c6ca5992b?username=jestrjk&token=<private> to C:\Users\jakej\AppData\Roaming\Factorio\temp\FactorySearch_1.13.2.zip
+1312.319 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/download/FactorySearch/67edbd9e99a88d8c6ca5992b?username=jestrjk&token=<private>
+1312.408 Info ModPortal.cpp:613: Downloading /download/newsletter-for-mods-made-by-quezler/67efefa722b87c6ed5b72598?username=jestrjk&token=<private> to C:\Users\jakej\AppData\Roaming\Factorio\temp\newsletter-for-mods-made-by-quezler_12025.10404.11441.zip
+1312.409 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/download/newsletter-for-mods-made-by-quezler/67efefa722b87c6ed5b72598?username=jestrjk&token=<private>
+1312.525 Info ModPortal.cpp:613: Downloading /download/RateCalculator/67e4374dc8208c62133eb2d7?username=jestrjk&token=<private> to C:\Users\jakej\AppData\Roaming\Factorio\temp\RateCalculator_3.3.7.zip
+1312.526 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/download/RateCalculator/67e4374dc8208c62133eb2d7?username=jestrjk&token=<private>
+1319.235 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/api/search
+1319.558 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/de9de04c2b9936afbba2cc1ae7f6c49d2e9ec58e.thumb.png
+1319.558 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/ac774dc3e52f98a2d6da58db18ebce02256ef8a4.thumb.png
+1319.558 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/ce0979e5e09d22600a22f00029a1affcea0d94dc.thumb.png
+1319.558 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/97a8a442fbe293dc35dca32652312721c7e69290.thumb.png
+1319.558 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/f122cd25ae0d104ec1cd2da072c24a292ad9bbfc.thumb.png
+1319.573 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/cfb3caa5cf90be176fbb26e6d01a3b605c75e34a.thumb.png
+1319.576 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/f4e25929e7bd3d1b64f36fdf75dfbd0502ca59a6.thumb.png
+1319.592 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/027de5365e09eb4c0072956a2dcf325786a69b19.thumb.png
+1319.597 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/5fb348d9dcd9335668e69c38e1fb9c682a0622b9.thumb.png
+1319.608 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/e6d38c8bbdae2b184ee14732c8769dc41e45c279.thumb.png
+1319.608 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/1b418f01f2b4c1be3888c0ca649899a724363697.thumb.png
+1319.622 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/d232083420c2ef967c62e663de356ed40ba3f8ff.thumb.png
+1319.622 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/0521365d424a13fef425bf1853aeef0cfd289119.thumb.png
+1319.625 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/cf902370bae5c330f0c6017f045a462a9c4fc010.thumb.png
+1319.631 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/93adf071881f814a20bcd3678e3b1ebf980c6792.thumb.png
+1319.641 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/033292d0eb49b961552451b58f8dbbac7df7e066.thumb.png
+1319.643 Info HttpSharedState.cpp:55: Downloading https://mods-data.factorio.com/assets/1acc0bc0a5bfe4f3189a990a0c1a241776925ce7.thumb.png
+1320.853 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/api/search
+1342.862 Info ModPortal.cpp:613: Downloading /download/blueprint-shotgun/67ec7c636bc07d879d279670?username=jestrjk&token=<private> to C:\Users\jakej\AppData\Roaming\Factorio\temp\blueprint-shotgun_0.1.5.zip
+1342.862 Info HttpSharedState.cpp:55: Downloading https://mods.factorio.com/download/blueprint-shotgun/67ec7c636bc07d879d279670?username=jestrjk&token=<private>
+1344.900 Info AppManager.cpp:1478: Restarting Factorio
+1344.938 Quitting: user-quit.
+1345.209 Steam API shutdown.
+1345.213 Goodbye

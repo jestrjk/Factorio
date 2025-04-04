@@ -1,0 +1,9 @@
+{
+    "name": "my_factorio_mod",
+    "version": "0.1.0",
+    "title": "My Factorio Mod",
+    "author": "Your Name",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Description of your mod"
+}
