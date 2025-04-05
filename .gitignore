@@ -1,0 +1,14 @@
+
+*.zip
+
+mods/mod-settings.dat
+
+player-data.json
+
+saves/steam_autocloud.vdf
+
+crop-cache.dat
+
+config/config.ini
+
+mods/mod-list.json
