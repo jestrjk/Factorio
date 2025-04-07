@@ -12,3 +12,7 @@ crop-cache.dat
 config/config.ini
 
 mods/mod-list.json
+
+factorio-previous.log
+
+factorio-current.log
