@@ -1,280 +1,237 @@
-   0.000 2025-04-04 12:17:37; Factorio 2.0.43 (build 82163, win64, steam, space-age)
+   0.000 2025-04-07 16:14:15; Factorio 2.0.43 (build 82163, win64, steam, space-age)
    0.000 Operating system: Windows 11 (build 26100) 
    0.000 Initializing Steam API.
-   0.000 Program arguments: "C:\Program Files (x86)\Steam\steamapps\common\Factorio\bin\x64\Factorio.exe" "--wait-to-close" "17900" 
+   0.000 Program arguments: "C:\Program Files (x86)\Steam\steamapps\common\Factorio\bin\x64\Factorio.exe" 
    0.000 Config path: C:/Users/jakej/AppData/Roaming/Factorio/config/config.ini
    0.000 Read data path: C:/Program Files (x86)/Steam/steamapps/common/Factorio/data
-   0.000 Write data path: C:/Users/jakej/AppData/Roaming/Factorio [1713689/1906966MB]
+   0.000 Write data path: C:/Users/jakej/AppData/Roaming/Factorio [1696752/1906966MB]
    0.000 Binaries path: C:/Program Files (x86)/Steam/steamapps/common/Factorio/bin
-   0.007 System info: [CPU: AMD Ryzen 7 7800X3D 8-Core Processor, 16 cores, RAM: 10811/64629 MB, page: 13345/68725 MB, virtual: 4354/134217727 MB, extended virtual: 0 MB]
-   0.028 Memory info:
-   0.028  [0]: Unknown F5-6000J3036G32G 32768 MB 4800 MHz 1.1 v 64|64
-   0.028  [1]: Unknown F5-6000J3036G32G 32768 MB 4800 MHz 1.1 v 64|64
-   0.059 Display options: [FullScreen: true] [VSync: true] [UIScale: manual-display-points (150.0%)] [Native DPI: true] [Screen: 255] [Special: lmw] [Lang: en]
-   0.392 Video driver: windows
-   0.392 Available displays: 3
-   0.392  [2]: \\.\DISPLAY3 - NVIDIA GeForce RTX 3080 {0x05, [0,0], 5120x1440, 32bit, 240Hz}
-   0.393  [0]: \\.\DISPLAY1 - NVIDIA GeForce RTX 3080 {0x01, [-774,-1440], 3440x1440, 32bit, 60Hz}
-   0.393  [1]: \\.\DISPLAY2 - NVIDIA GeForce RTX 3080 {0x01, [2666,-1462], 3440x1440, 32bit, 50Hz}
-   0.445 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: -1; d3dcompiler_47.dll
-   0.619 Initialised Direct3D[0]: NVIDIA GeForce RTX 3080; id: 10de-220a; driver: nvldumdx.dll 32.0.15.7283
-   0.619   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
-   0.619   [Local Video Memory] Budget: 11325MB, CurrentUsage: 6MB, Reservation: 0/5790MB
-   0.619   [Non-Local Vid.Mem.] Budget: 31546MB, CurrentUsage: 0MB, Reservation: 0/15901MB
-   0.619   Tiled resources: Tier 2
-   0.619   Unified Memory Architecture: No
-   0.619   BGR 565 Supported: Yes
-   0.619   MaximumFrameLatency: 3, GPUThreadPriority: 0
-   0.620 Graphics settings preset: very-high
-   0.620   Dedicated video memory size 12093 MB
-   0.650 Desktop composition is active.
-   0.650 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality]
-   0.650                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: false] [Rotation quality: normal] [Other: STDCWTl] [B:0,C:0,S:100]
-   0.673 [Audio] Driver:wasapi, Device:Default device, Depth:16, Frequency:44100, Channels:2, Interpolation:linear
-   0.775 Info ModManager.cpp:444: FeatureFlag expansion-shaders = true
-   0.775 Info ModManager.cpp:444: FeatureFlag freezing = true
-   0.775 Info ModManager.cpp:444: FeatureFlag quality = true
-   0.775 Info ModManager.cpp:444: FeatureFlag rail-bridges = true
-   0.775 Info ModManager.cpp:444: FeatureFlag segmented-units = true
-   0.775 Info ModManager.cpp:444: FeatureFlag space-travel = true
-   0.775 Info ModManager.cpp:444: FeatureFlag spoiling = true
-   0.777 Loading mod settings blueprint-sandboxes 2.6.4 (settings.lua)
-   0.777 Loading mod settings blueprint-shotgun 0.1.5 (settings.lua)
-   0.778 Loading mod settings DiscoScience 2.0.1 (settings.lua)
-   0.778 Loading mod settings even-distribution 2.0.2 (settings.lua)
-   0.778 Loading mod settings even-pickier-dollies 2.5.4 (settings.lua)
-   0.778 Loading mod settings Quicksave 0.4.0 (settings.lua)
-   0.779 Loading mod settings BottleneckLite 1.3.3 (settings.lua)
-   0.779 Loading mod settings RateCalculator 3.3.7 (settings.lua)
-   0.779 Loading mod settings RecipeBook 4.0.2 (settings.lua)
-   0.779 Loading mod settings FactorySearch 1.13.2 (settings.lua)
-   0.780 Loading mod settings visible-planets 1.4.5 (settings.lua)
-   0.780 Loading mod settings blueprint-sandboxes 2.6.4 (settings-final-fixes.lua)
-   0.783 Loading mod core 0.0.0 (data.lua)
-   0.801 Loading mod base 2.0.43 (data.lua)
-   0.982 Loading mod blueprint-sandboxes 2.6.4 (data.lua)
-   0.990 Loading mod blueprint-shotgun 0.1.5 (data.lua)
-   0.996 Loading mod bullet-trails 0.7.1 (data.lua)
-   1.000 Loading mod DiscoScience 2.0.1 (data.lua)
-   1.004 Loading mod elevated-rails 2.0.43 (data.lua)
-   1.025 Loading mod even-distribution 2.0.2 (data.lua)
-   1.030 Loading mod even-pickier-dollies 2.5.4 (data.lua)
-   1.034 Loading mod flib 0.16.2 (data.lua)
-   1.038 Loading mod GhostPlacerXpress 0.2.1 (data.lua)
-   1.043 Loading mod more-minimap-autohide-017 2.0.0 (data.lua)
-   1.047 Loading mod quality 2.0.43 (data.lua)
-   1.064 Loading mod Quicksave 0.4.0 (data.lua)
-   1.070 Loading mod factoryplanner 2.0.19 (data.lua)
-   1.074 Loading mod RateCalculator 3.3.7 (data.lua)
-   1.079 Loading mod RecipeBook 4.0.2 (data.lua)
-   1.084 Loading mod space-age 2.0.43 (data.lua)
-   1.348 Loading mod FactorySearch 1.13.2 (data.lua)
-   1.357 Loading mod visible-planets 1.4.5 (data.lua)
-   1.365 Loading mod base 2.0.43 (data-updates.lua)
-   1.372 Loading mod CleanFloor 2.0.0 (data-updates.lua)
-   1.379 Loading mod blueprint-sandboxes 2.6.4 (data-updates.lua)
-   1.386 Loading mod bullet-trails 0.7.1 (data-updates.lua)
-   1.393 Loading mod quality 2.0.43 (data-updates.lua)
-   1.405 Loading mod space-age 2.0.43 (data-updates.lua)
-   1.413 Loading mod FactorySearch 1.13.2 (data-updates.lua)
-   1.420 Loading mod blueprint-sandboxes 2.6.4 (data-final-fixes.lua)
-   1.420 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[ammo-turret][se-meteor-defence-container] not found; cannot create Illusion
-   1.420 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[ammo-turret][se-meteor-point-defence-container] not found; cannot create Illusion
-   1.420 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-delivery-cannon] not found; cannot create Illusion
-   1.420 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-delivery-cannon-weapon] not found; cannot create Illusion
-   1.420 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-energy-transmitter-injector] not found; cannot create Illusion
-   1.420 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-energy-transmitter-emitter] not found; cannot create Illusion
-   1.421 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-space-elevator] not found; cannot create Illusion
-   1.421 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[boiler][se-energy-transmitter-chamber] not found; cannot create Illusion
-   1.421 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[container][se-rocket-launch-pad] not found; cannot create Illusion
-   1.421 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[container][se-rocket-landing-pad] not found; cannot create Illusion
-   1.421 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[electric-energy-interface][se-energy-beam-defence] not found; cannot create Illusion
-   1.421 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[mining-drill][se-core-miner-drill] not found; cannot create Illusion
-   1.427 Loading mod BottleneckLite 1.3.3 (data-final-fixes.lua)
-   1.435 Loading mod RecipeBook 4.0.2 (data-final-fixes.lua)
-   1.442 Loading mod visible-planets 1.4.5 (data-final-fixes.lua)
-   1.443 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for nauvis
-   1.443 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for vulcanus
-   1.443 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for gleba
-   1.443 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for fulgora
-   1.443 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for aquilo
-   1.443 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:107: Skipping visible-planets for space-location-unknown; Blacklisted.
-   1.443 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:29: Skipping visible-planets for solar-system-edge; Starmap icon missing.
-   1.443 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for shattered-planet
-   1.515 Checksum for core: 2871805093
-   1.515 Checksum of base: 961148251
-   1.515 Checksum of CleanFloor: 2254551355
-   1.515 Checksum of blueprint-sandboxes: 248818167
-   1.515 Checksum of blueprint-shotgun: 3161790504
-   1.515 Checksum of bullet-trails: 3844283971
-   1.515 Checksum of DiscoScience: 2800209080
-   1.515 Checksum of elevated-rails: 1723922474
-   1.515 Checksum of even-distribution: 281457414
-   1.515 Checksum of even-pickier-dollies: 2877882474
-   1.515 Checksum of flib: 728527376
-   1.515 Checksum of GhostPlacerXpress: 2922466754
-   1.515 Checksum of more-minimap-autohide-017: 149315223
-   1.515 Checksum of quality: 3659920990
-   1.515 Checksum of Quicksave: 132597282
-   1.515 Checksum of BottleneckLite: 4111793293
-   1.515 Checksum of factoryplanner: 1350146402
-   1.515 Checksum of RateCalculator: 1295360039
-   1.515 Checksum of RecipeBook: 1411504908
-   1.515 Checksum of space-age: 2640575863
-   1.515 Checksum of FactorySearch: 2061526368
-   1.515 Checksum of visible-planets: 3598016665
-   1.754 Prototype list checksum: 1387232791
-   1.811 Loading sounds...
-   2.158 Info PlayerData.cpp:66: Local player-data.json unavailable
-   2.158 Info PlayerData.cpp:69: Cloud player-data.json available, timestamp 1743783457
-   2.161 Post-data load graphics options: [Light occlusion: YES]
-   2.394 Crop bitmaps.
-   2.396 Parallel sprite loader initialized (threads: 16, bitmaps: 20)
-   2.476 Initial atlas bitmap size is 16384
-   2.486 Created an atlas bitmap (size 16384x16360) [none]
-   2.499 Created an atlas bitmap (size 16384x16380) [none]
-   2.515 Created an atlas bitmap (size 16384x16384) [none]
-   2.516 Created an atlas bitmap (size 16384x14912) [none]
-   2.520 Created an atlas bitmap (size 16384x16384) [low-object]
-   2.520 Created an atlas bitmap (size 4096x1664) [low-object]
-   2.521 Created an atlas bitmap (size 16384x14176) [corpse-decay]
-   2.521 Created an atlas bitmap (size 16384x8392) [decal]
-   2.521 Created an atlas bitmap (size 16384x5596) [none]
-   2.521 Created an atlas bitmap (size 1676x79) [not-compressed]
-   2.522 Created an atlas bitmap (size 16384x4240) [mipmap, linear-minification, linear-magnification, linear-mip-level]
-   2.522 Created an atlas bitmap (size 4096x3040) [smoke, mipmap, linear-minification, linear-magnification]
-   2.526 Created an atlas bitmap (size 16384x16352) [terrain, mipmap, linear-minification, linear-mip-level]
-   2.526 Created an atlas bitmap (size 16384x4944) [terrain, mipmap, linear-minification, linear-mip-level]
-   2.526 Created an atlas bitmap (size 8192x4128) [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
-   2.526 Created an atlas bitmap (size 8192x2608) [mipmap]
-   2.526 Created an atlas bitmap (size 3504x768) [mipmap]
-   2.527 Created an atlas bitmap (size 4096x3152) [mipmap]
-   2.527 Created an atlas bitmap (size 4096x3152) [mipmap]
-   2.527 Created an atlas bitmap (size 4096x3152) [mipmap]
-   2.527 Created an atlas bitmap (size 8192x4160) [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
-   2.528 Created an atlas bitmap (size 16384x6120) [alpha-mask]
-   2.542 Created an atlas bitmap (size 16384x16368) [shadow, linear-magnification, alpha-mask]
-   2.546 Created an atlas bitmap (size 16384x16384) [shadow, linear-magnification, alpha-mask]
-   2.546 Created an atlas bitmap (size 16384x3724) [shadow, linear-magnification, alpha-mask]
-   2.546 Created an atlas bitmap (size 8192x4000) [shadow, mipmap, linear-magnification, alpha-mask]
-   2.546 Created an atlas bitmap (size 4096x336) [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
-   2.546 Loading 3D bitmaps.
-   2.556 Texture processor created (4096). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
-   2.588 Parallel sprite loader initialized (threads: 15, bitmaps: 8406)
-  12.747 Sprites loaded
-  12.769 Generated mipmaps (4) for atlas [4] of size 16384x16384   
-  12.780 Generated mipmaps (4) for atlas [5] of size 4096x1664   
-  12.801 Generated mipmaps (3) for atlas [10] of size 16384x4240   
-  12.812 Generated mipmaps (3) for atlas [11] of size 4096x3040   
-  12.823 Generated mipmaps (3) for atlas [12] of size 16384x16352   
-  12.834 Generated mipmaps (3) for atlas [13] of size 16384x4944   
-  12.845 Generated mipmaps (3) for atlas [14] of size 8192x4128   
-  12.885 Generated mipmaps (3) for atlas [15] of size 8192x2608   
-  12.896 Generated mipmaps (3) for atlas [16] of size 3504x768   
-  12.906 Generated mipmaps (3) for atlas [17] of size 4096x3152   
-  12.931 Generated mipmaps (3) for atlas [18] of size 4096x3152   
-  12.942 Generated mipmaps (3) for atlas [19] of size 4096x3152   
-  12.953 Generated mipmaps (5) for atlas [20] of size 8192x4160   
-  12.964 Generated mipmaps (3) for atlas [25] of size 8192x4000   
-  12.989 Custom mipmaps uploaded (3458)
-  13.010 Video memory usage: 3586.57 MB (Atlases: 3456.26 MB, Textures: 130.30 MB)
-  13.013 Custom inputs active: 44
-  13.057 Factorio initialised
-  13.059 Steam Storage Quota: 23401/23841
-  28.957 Loading map C:\Users\jakej\AppData\Roaming\Factorio\saves\Rail World Lite 25-03-26.zip: 9528306 bytes.
-  28.992 Loading level.dat: 35004412 bytes.
-  28.995 Info Scenario.cpp:153: Map version 2.0.43-3
-  29.475 Loading blueprint storage: Local timestamp 1743782762, Cloud timestamp 1743782762
-  29.711 Loading script.dat: 2088747 bytes.
-  29.713 Checksum for script __level__/control.lua: 2734153661
-  29.717 Checksum for script __blueprint-sandboxes__/control.lua: 2548910871
-  29.720 Checksum for script __blueprint-shotgun__/control.lua: 1998995977
-  29.721 Checksum for script __DiscoScience__/control.lua: 2155680188
-  29.722 Script @__even-distribution__/framework.lua:22: 0 [ED] Initializing framework... DEBUG = false
-  29.722 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom scripts...
-  29.722 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: metatables
-  29.722 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: util
-  29.722 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: helpers
-  29.722 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: setup
-  29.723 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: remote
-  29.723 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: visuals
-  29.723 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: gui-tools
-  29.723 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: drag
-  29.723 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: cleanup
-  29.724 Script @__even-distribution__/framework.lua:22: 0 [ED] GUI-Script: settings-gui
-  29.724 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering default event handlers...
-  29.724 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom inputs...
-  29.724 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
-  29.724 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
-  29.724 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
-  29.725 Script @__even-distribution__/framework.lua:22: 0 [ED] Successfully initialized
-  29.725 Checksum for script __even-distribution__/control.lua: 140605339
-  29.727 Checksum for script __even-pickier-dollies__/control.lua: 1801044359
-  29.728 Checksum for script __GhostPlacerXpress__/control.lua: 2164491101
-  29.728 Checksum for script __more-minimap-autohide-017__/control.lua: 1781218547
-  29.729 Checksum for script __Quicksave__/control.lua: 2268494566
-  29.745 Checksum for script __factoryplanner__/control.lua: 915592458
-  29.749 Checksum for script __RateCalculator__/control.lua: 2053225949
-  29.787 Checksum for script __RecipeBook__/control.lua: 4043396858
-  29.792 Checksum for script __FactorySearch__/control.lua: 1323634619
-  29.793 Checksum for script __visible-planets__/control.lua: 2894108746
-  29.858 Script @__blueprint-sandboxes__/scripts/research.lua:17: Copied all Research from: player -> bpsb-sb-f-player
-  29.858 Script @__blueprint-sandboxes__/scripts/research.lua:34: Copied Research Queue from: player -> bpsb-sb-f-player
-  29.858 Script @__blueprint-sandboxes__/scripts/research.lua:41: Unlocking hidden Recipes for: bpsb-sb-f-player
-  29.959 Script @__RecipeBook__/scripts/gui/search-pane.lua:265: Update Filter Panel Duration: 2.375200ms
-  31.484 Script @__RecipeBook__/scripts/gui/search-pane.lua:265: Update Filter Panel Duration: 4.367500ms
-  36.264 Info AppManager.cpp:323: Saving to _autosave3 (blocking).
-  36.447 Info AppManagerStates.cpp:2097: Saving finished
- 336.447 Info AppManager.cpp:323: Saving to _autosave1 (blocking).
- 336.629 Info AppManagerStates.cpp:2097: Saving finished
- 636.614 Info AppManager.cpp:323: Saving to _autosave2 (blocking).
- 636.767 Info BlueprintShelf.cpp:723: Saving blueprint storage.
- 636.790 Saved blueprint storage to cloud
- 636.831 Info AppManagerStates.cpp:2097: Saving finished
- 936.831 Info AppManager.cpp:323: Saving to _autosave3 (blocking).
- 937.031 Info AppManagerStates.cpp:2097: Saving finished
-1237.099 Info AppManager.cpp:323: Saving to _autosave1 (blocking).
-1237.291 Info AppManagerStates.cpp:2097: Saving finished
-1537.280 Info AppManager.cpp:323: Saving to _autosave2 (blocking).
-1537.481 Info AppManagerStates.cpp:2097: Saving finished
-1837.481 Info AppManager.cpp:323: Saving to _autosave3 (blocking).
-1837.670 Info AppManagerStates.cpp:2097: Saving finished
-2137.665 Info AppManager.cpp:323: Saving to _autosave1 (blocking).
-2137.860 Info AppManagerStates.cpp:2097: Saving finished
-2437.847 Info AppManager.cpp:323: Saving to _autosave2 (blocking).
-2438.043 Info AppManagerStates.cpp:2097: Saving finished
-2738.030 Info AppManager.cpp:323: Saving to _autosave3 (blocking).
-2738.232 Info AppManagerStates.cpp:2097: Saving finished
-3038.230 Info AppManager.cpp:323: Saving to _autosave1 (blocking).
-3038.425 Info AppManagerStates.cpp:2097: Saving finished
-3338.415 Info AppManager.cpp:323: Saving to _autosave2 (blocking).
-3338.604 Info AppManagerStates.cpp:2097: Saving finished
-3638.598 Info AppManager.cpp:323: Saving to _autosave3 (blocking).
-3638.794 Info AppManagerStates.cpp:2097: Saving finished
-3938.780 Info AppManager.cpp:323: Saving to _autosave1 (blocking).
-3938.939 Info BlueprintShelf.cpp:723: Saving blueprint storage.
-3938.963 Saved blueprint storage to cloud
-3938.997 Info AppManagerStates.cpp:2097: Saving finished
-4238.997 Info AppManager.cpp:323: Saving to _autosave2 (blocking).
-4239.195 Info AppManagerStates.cpp:2097: Saving finished
-4539.181 Info AppManager.cpp:323: Saving to _autosave3 (blocking).
-4539.383 Info AppManagerStates.cpp:2097: Saving finished
-4839.381 Info AppManager.cpp:323: Saving to _autosave1 (blocking).
-4839.577 Info AppManagerStates.cpp:2097: Saving finished
-5139.563 Info AppManager.cpp:323: Saving to _autosave2 (blocking).
-5139.759 Info AppManagerStates.cpp:2097: Saving finished
-5439.748 Info AppManager.cpp:323: Saving to _autosave3 (blocking).
-5439.937 Info AppManagerStates.cpp:2097: Saving finished
-5739.932 Info AppManager.cpp:323: Saving to _autosave1 (blocking).
-5740.132 Info AppManagerStates.cpp:2097: Saving finished
-6040.131 Info AppManager.cpp:323: Saving to _autosave2 (blocking).
-6040.323 Info AppManagerStates.cpp:2097: Saving finished
-6340.316 Info AppManager.cpp:323: Saving to _autosave3 (blocking).
-6340.514 Info AppManagerStates.cpp:2097: Saving finished
-6640.514 Info AppManager.cpp:323: Saving to _autosave1 (blocking).
-6640.712 Info AppManagerStates.cpp:2097: Saving finished
-6670.179 Info AppManagerStates.cpp:2097: Saving finished
-6670.974 Info AppManager.cpp:352: Deleting active scenario.
-6672.858 Quitting: user-quit.
-6673.117 Steam API shutdown.
-6673.121 Goodbye
+   0.007 System info: [CPU: AMD Ryzen 7 7800X3D 8-Core Processor, 16 cores, RAM: 14426/64629 MB, page: 17987/68725 MB, virtual: 4354/134217727 MB, extended virtual: 0 MB]
+   0.030 Memory info:
+   0.030  [0]: Unknown F5-6000J3036G32G 32768 MB 4800 MHz 1.1 v 64|64
+   0.030  [1]: Unknown F5-6000J3036G32G 32768 MB 4800 MHz 1.1 v 64|64
+   0.062 Display options: [FullScreen: true] [VSync: true] [UIScale: manual-display-points (150.0%)] [Native DPI: true] [Screen: 255] [Special: lmw] [Lang: en]
+   0.426 Video driver: windows
+   0.426 Available displays: 3
+   0.426  [2]: \\.\DISPLAY3 - NVIDIA GeForce RTX 3080 {0x05, [0,0], 5120x1440, 32bit, 240Hz}
+   0.426  [0]: \\.\DISPLAY1 - NVIDIA GeForce RTX 3080 {0x01, [-774,-1440], 3440x1440, 32bit, 60Hz}
+   0.426  [1]: \\.\DISPLAY2 - NVIDIA GeForce RTX 3080 {0x01, [2666,-1462], 3440x1440, 32bit, 50Hz}
+   0.488 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: -1; d3dcompiler_47.dll
+   0.668 Initialised Direct3D[0]: NVIDIA GeForce RTX 3080; id: 10de-220a; driver: nvldumdx.dll 32.0.15.7283
+   0.668   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.668   [Local Video Memory] Budget: 11325MB, CurrentUsage: 6MB, Reservation: 0/5790MB
+   0.668   [Non-Local Vid.Mem.] Budget: 31546MB, CurrentUsage: 0MB, Reservation: 0/15901MB
+   0.668   Tiled resources: Tier 2
+   0.668   Unified Memory Architecture: No
+   0.668   BGR 565 Supported: Yes
+   0.668   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.668 Graphics settings preset: very-high
+   0.668   Dedicated video memory size 12093 MB
+   0.696 Desktop composition is active.
+   0.696 Graphics options: [Graphics quality: high] [Video memory usage: all] [DXT: high-quality]
+   0.696                   [Max threads (load/render): 32/8] [Max texture size: 0] [Tex.Stream.: false] [Rotation quality: normal] [Other: STDCWTl] [B:0,C:0,S:100]
+   0.722 [Audio] Driver:wasapi, Device:Default device, Depth:16, Frequency:44100, Channels:2, Interpolation:linear
+   0.834 Info ModManager.cpp:444: FeatureFlag expansion-shaders = true
+   0.834 Info ModManager.cpp:444: FeatureFlag freezing = true
+   0.834 Info ModManager.cpp:444: FeatureFlag quality = true
+   0.834 Info ModManager.cpp:444: FeatureFlag rail-bridges = true
+   0.834 Info ModManager.cpp:444: FeatureFlag segmented-units = true
+   0.834 Info ModManager.cpp:444: FeatureFlag space-travel = true
+   0.834 Info ModManager.cpp:444: FeatureFlag spoiling = true
+   0.837 Loading mod settings blueprint-shotgun 0.1.6 (settings.lua)
+   0.837 Loading mod settings DiscoScience 2.0.1 (settings.lua)
+   0.837 Loading mod settings even-distribution 2.0.2 (settings.lua)
+   0.838 Loading mod settings even-pickier-dollies 2.5.4 (settings.lua)
+   0.838 Loading mod settings logistic_group_editor 2.0.6 (settings.lua)
+   0.838 Loading mod settings Quicksave 0.4.0 (settings.lua)
+   0.838 Loading mod settings BottleneckLite 1.3.3 (settings.lua)
+   0.839 Loading mod settings RateCalculator 3.3.7 (settings.lua)
+   0.839 Loading mod settings RecipeBook 4.0.2 (settings.lua)
+   0.839 Loading mod settings EditorExtensions 2.4.2 (settings.lua)
+   0.839 Loading mod settings FactorySearch 1.13.2 (settings.lua)
+   0.840 Loading mod settings visible-planets 1.4.6 (settings.lua)
+   0.840 Loading mod settings blueprint-sandboxes 2.6.4 (settings.lua)
+   0.841 Loading mod settings blueprint-sandboxes 2.6.4 (settings-final-fixes.lua)
+   0.844 Loading mod core 0.0.0 (data.lua)
+   0.870 Loading mod base 2.0.43 (data.lua)
+   1.073 Loading mod blueprint-shotgun 0.1.6 (data.lua)
+   1.083 Loading mod bullet-trails 0.7.1 (data.lua)
+   1.097 Loading mod DiscoScience 2.0.1 (data.lua)
+   1.114 Loading mod elevated-rails 2.0.43 (data.lua)
+   1.146 Loading mod even-distribution 2.0.2 (data.lua)
+   1.151 Loading mod even-pickier-dollies 2.5.4 (data.lua)
+   1.167 Loading mod flib 0.16.2 (data.lua)
+   1.186 Loading mod GhostPlacerXpress 0.2.1 (data.lua)
+   1.201 Loading mod jestrjk-oil-sludge 0.1.0 (data.lua)
+   1.218 Loading mod more-minimap-autohide-017 2.0.0 (data.lua)
+   1.234 Loading mod quality 2.0.43 (data.lua)
+   1.260 Loading mod Quicksave 0.4.0 (data.lua)
+   1.268 Loading mod factoryplanner 2.0.19 (data.lua)
+   1.286 Loading mod RateCalculator 3.3.7 (data.lua)
+   1.301 Loading mod RecipeBook 4.0.2 (data.lua)
+   1.317 Loading mod space-age 2.0.43 (data.lua)
+   1.580 Loading mod EditorExtensions 2.4.2 (data.lua)
+   1.599 Loading mod FactorySearch 1.13.2 (data.lua)
+   1.607 Loading mod visible-planets 1.4.6 (data.lua)
+   1.623 Loading mod blueprint-sandboxes 2.6.4 (data.lua)
+   1.649 Loading mod base 2.0.43 (data-updates.lua)
+   1.674 Loading mod CleanFloor 2.0.0 (data-updates.lua)
+   1.690 Loading mod bullet-trails 0.7.1 (data-updates.lua)
+   1.706 Loading mod quality 2.0.43 (data-updates.lua)
+   1.729 Loading mod space-age 2.0.43 (data-updates.lua)
+   1.740 Loading mod FactorySearch 1.13.2 (data-updates.lua)
+   1.757 Loading mod blueprint-sandboxes 2.6.4 (data-updates.lua)
+   1.783 Loading mod logistic_group_editor 2.0.6 (data-final-fixes.lua)
+   1.810 Loading mod BottleneckLite 1.3.3 (data-final-fixes.lua)
+   1.825 Loading mod RecipeBook 4.0.2 (data-final-fixes.lua)
+   1.842 Loading mod EditorExtensions 2.4.2 (data-final-fixes.lua)
+   1.859 Loading mod visible-planets 1.4.6 (data-final-fixes.lua)
+   1.866 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for nauvis
+   1.866 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for vulcanus
+   1.866 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for gleba
+   1.866 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for fulgora
+   1.866 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for aquilo
+   1.866 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:107: Skipping visible-planets for space-location-unknown; Blacklisted.
+   1.866 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:29: Skipping visible-planets for solar-system-edge; Starmap icon missing.
+   1.866 Script @__visible-planets__/data_stuff/sprite_prototypes.lua:37: Adding visible-planets for shattered-planet
+   1.875 Loading mod blueprint-sandboxes 2.6.4 (data-final-fixes.lua)
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[ammo-turret][se-meteor-defence-container] not found; cannot create Illusion
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[ammo-turret][se-meteor-point-defence-container] not found; cannot create Illusion
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-delivery-cannon] not found; cannot create Illusion
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-delivery-cannon-weapon] not found; cannot create Illusion
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-energy-transmitter-injector] not found; cannot create Illusion
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-energy-transmitter-emitter] not found; cannot create Illusion
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[assembling-machine][se-space-elevator] not found; cannot create Illusion
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[boiler][se-energy-transmitter-chamber] not found; cannot create Illusion
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[container][se-rocket-launch-pad] not found; cannot create Illusion
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[container][se-rocket-landing-pad] not found; cannot create Illusion
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[electric-energy-interface][se-energy-beam-defence] not found; cannot create Illusion
+   1.884 Script @__blueprint-sandboxes__/prototypes/illusions-final-fixes.lua:45: data[mining-drill][se-core-miner-drill] not found; cannot create Illusion
+   1.970 Checksum for core: 2871805093
+   1.970 Checksum of base: 961148251
+   1.970 Checksum of CleanFloor: 2254551355
+   1.970 Checksum of blueprint-shotgun: 3161790504
+   1.970 Checksum of bullet-trails: 3844283971
+   1.970 Checksum of DiscoScience: 2800209080
+   1.970 Checksum of elevated-rails: 1723922474
+   1.970 Checksum of even-distribution: 281457414
+   1.970 Checksum of even-pickier-dollies: 2877882474
+   1.970 Checksum of flib: 728527376
+   1.970 Checksum of GhostPlacerXpress: 2922466754
+   1.970 Checksum of jestrjk-oil-sludge: 4272014401
+   1.970 Checksum of logistic_group_editor: 2940062495
+   1.970 Checksum of more-minimap-autohide-017: 149315223
+   1.970 Checksum of quality: 3659920990
+   1.970 Checksum of Quicksave: 132597282
+   1.970 Checksum of BottleneckLite: 4111793293
+   1.970 Checksum of factoryplanner: 1350146402
+   1.970 Checksum of RateCalculator: 1295360039
+   1.970 Checksum of RecipeBook: 1411504908
+   1.970 Checksum of space-age: 2640575863
+   1.970 Checksum of EditorExtensions: 3808487822
+   1.970 Checksum of FactorySearch: 2061526368
+   1.970 Checksum of visible-planets: 3598016665
+   1.970 Checksum of blueprint-sandboxes: 248818167
+   2.218 Prototype list checksum: 3810598449
+   2.269 Loading sounds...
+   2.568 Info PlayerData.cpp:66: Local player-data.json unavailable
+   2.568 Info PlayerData.cpp:69: Cloud player-data.json available, timestamp 1744056736
+   2.570 Post-data load graphics options: [Light occlusion: YES]
+   2.834 Initial atlas bitmap size is 16384
+   2.844 Created an atlas bitmap (size 16384x16380) [none]
+   2.856 Created an atlas bitmap (size 16384x16376) [none]
+   2.872 Created an atlas bitmap (size 16384x16368) [none]
+   2.873 Created an atlas bitmap (size 16384x14912) [none]
+   2.876 Created an atlas bitmap (size 16384x16384) [low-object]
+   2.877 Created an atlas bitmap (size 4096x1664) [low-object]
+   2.877 Created an atlas bitmap (size 16384x14176) [corpse-decay]
+   2.877 Created an atlas bitmap (size 16384x8392) [decal]
+   2.878 Created an atlas bitmap (size 16384x5596) [none]
+   2.878 Created an atlas bitmap (size 1676x79) [not-compressed]
+   2.878 Created an atlas bitmap (size 16384x4240) [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.879 Created an atlas bitmap (size 4096x3040) [smoke, mipmap, linear-minification, linear-magnification]
+   2.883 Created an atlas bitmap (size 16384x16352) [terrain, mipmap, linear-minification, linear-mip-level]
+   2.883 Created an atlas bitmap (size 16384x4944) [terrain, mipmap, linear-minification, linear-mip-level]
+   2.883 Created an atlas bitmap (size 8192x4128) [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   2.883 Created an atlas bitmap (size 8192x2608) [mipmap]
+   2.884 Created an atlas bitmap (size 3504x768) [mipmap]
+   2.884 Created an atlas bitmap (size 4096x3152) [mipmap]
+   2.884 Created an atlas bitmap (size 4096x3152) [mipmap]
+   2.884 Created an atlas bitmap (size 4096x3152) [mipmap]
+   2.885 Created an atlas bitmap (size 8192x4176) [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   2.885 Created an atlas bitmap (size 16384x6120) [alpha-mask]
+   2.900 Created an atlas bitmap (size 16384x16380) [shadow, linear-magnification, alpha-mask]
+   2.903 Created an atlas bitmap (size 16384x16368) [shadow, linear-magnification, alpha-mask]
+   2.903 Created an atlas bitmap (size 16384x3724) [shadow, linear-magnification, alpha-mask]
+   2.903 Created an atlas bitmap (size 8192x4000) [shadow, mipmap, linear-magnification, alpha-mask]
+   2.904 Created an atlas bitmap (size 4096x336) [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   2.904 Loading 3D bitmaps.
+   2.914 Texture processor created (4096). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   2.947 Parallel sprite loader initialized (threads: 15, bitmaps: 8427)
+  13.456 Sprites loaded
+  13.489 Generated mipmaps (4) for atlas [4] of size 16384x16384   
+  13.501 Generated mipmaps (4) for atlas [5] of size 4096x1664   
+  13.517 Generated mipmaps (3) for atlas [10] of size 16384x4240   
+  13.533 Generated mipmaps (3) for atlas [11] of size 4096x3040   
+  13.560 Generated mipmaps (3) for atlas [12] of size 16384x16352   
+  13.570 Generated mipmaps (3) for atlas [13] of size 16384x4944   
+  13.587 Generated mipmaps (3) for atlas [14] of size 8192x4128   
+  13.634 Generated mipmaps (3) for atlas [15] of size 8192x2608   
+  13.645 Generated mipmaps (3) for atlas [16] of size 3504x768   
+  13.662 Generated mipmaps (3) for atlas [17] of size 4096x3152   
+  13.692 Generated mipmaps (3) for atlas [18] of size 4096x3152   
+  13.703 Generated mipmaps (3) for atlas [19] of size 4096x3152   
+  13.720 Generated mipmaps (5) for atlas [20] of size 8192x4176   
+  13.736 Generated mipmaps (3) for atlas [25] of size 8192x4000   
+  13.759 Custom mipmaps uploaded (3476)
+  13.781 Video memory usage: 3587.20 MB (Atlases: 3456.90 MB, Textures: 130.30 MB)
+  13.784 Custom inputs active: 49
+  13.847 Factorio initialised
+  13.849 Steam Storage Quota: 23408/23841
+  24.075 Loading level.dat: 13910818 bytes.
+  24.075 Info Scenario.cpp:153: Map version 2.0.43-3
+  24.239 Loading blueprint storage: Local timestamp 1743787396, Cloud timestamp 1743787396
+  24.283 Loading script.dat: 2149119 bytes.
+  24.288 Checksum for script __blueprint-shotgun__/control.lua: 457105762
+  24.289 Checksum for script __DiscoScience__/control.lua: 2155680188
+  24.290 Script @__even-distribution__/framework.lua:22: 0 [ED] Initializing framework... DEBUG = false
+  24.290 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom scripts...
+  24.290 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: metatables
+  24.290 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: util
+  24.290 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: helpers
+  24.290 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: setup
+  24.291 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: remote
+  24.291 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: visuals
+  24.291 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: gui-tools
+  24.291 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: drag
+  24.291 Script @__even-distribution__/framework.lua:22: 0 [ED] Script: cleanup
+  24.292 Script @__even-distribution__/framework.lua:22: 0 [ED] GUI-Script: settings-gui
+  24.292 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering default event handlers...
+  24.292 Script @__even-distribution__/framework.lua:22: 0 [ED] Registering custom inputs...
+  24.292 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: inventory-cleanup   event: on_inventory_cleanup
+  24.292 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-transfer-hook   event: on_fast_entity_transfer_hook
+  24.292 Script @__even-distribution__/framework.lua:22: 0 [ED] Input: fast-entity-split-hook   event: on_fast_entity_split_hook
+  24.293 Script @__even-distribution__/framework.lua:22: 0 [ED] Successfully initialized
+  24.293 Checksum for script __even-distribution__/control.lua: 140605339
+  24.296 Checksum for script __even-pickier-dollies__/control.lua: 1801044359
+  24.296 Checksum for script __GhostPlacerXpress__/control.lua: 2164491101
+  24.297 Checksum for script __logistic_group_editor__/control.lua: 3800384597
+  24.297 Checksum for script __more-minimap-autohide-017__/control.lua: 1781218547
+  24.298 Checksum for script __Quicksave__/control.lua: 2268494566
+  24.315 Checksum for script __factoryplanner__/control.lua: 915592458
+  24.319 Checksum for script __RateCalculator__/control.lua: 2053225949
+  24.362 Checksum for script __RecipeBook__/control.lua: 4043396858
+  24.368 Checksum for script __EditorExtensions__/control.lua: 1918880134
+  24.371 Checksum for script __FactorySearch__/control.lua: 1323634619
+  24.372 Checksum for script __visible-planets__/control.lua: 2894108746
+  24.376 Checksum for script __blueprint-sandboxes__/control.lua: 2548910871
+  24.445 Script @__blueprint-sandboxes__/scripts/lab.lua:93: Not a Lab, won't Delete: bpsb-lab-p-jestrjk
+ 114.179 Script @__RecipeBook__/scripts/gui/search-pane.lua:265: Update Filter Panel Duration: 3.915500ms
+ 114.182 Script @__RecipeBook__/scripts/gui/search-pane.lua:265: Update Filter Panel Duration: 3.021200ms
+ 139.995 Info AppManager.cpp:323: Saving to _autosave1 (blocking).
+ 140.135 Info AppManagerStates.cpp:2097: Saving finished
+ 265.068 Info AppManagerStates.cpp:2097: Saving finished
+ 266.083 Info AppManager.cpp:352: Deleting active scenario.
+ 267.491 Quitting: user-quit.
+ 267.807 Steam API shutdown.
+ 267.810 Goodbye
