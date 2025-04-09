@@ -1,0 +1,9 @@
+{
+    "name": "trihat-industrial-age",
+    "version": "0.1.0",
+    "title": "Trihat Industrial Age",
+    "author": "Trihat",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 2.0"],
+    "description": "Experience the industrial revolution in Factorio with new technologies, buildings, and production chains."
+}

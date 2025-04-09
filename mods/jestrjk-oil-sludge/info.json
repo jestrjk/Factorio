@@ -1,9 +1,0 @@
-{
-    "name": "jestrjk-oil-sludge",
-    "version": "0.1.0",
-    "title": "Oil Sludge",
-    "author": "jestrjk",
-    "factorio_version": "2.0",
-    "dependencies": ["base >= 1.1"],
-    "description": "Adds oil sludge as a byproduct of simple oil processing."
-}
